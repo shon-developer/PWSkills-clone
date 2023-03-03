@@ -1,4 +1,4 @@
-# PW Skills website clone
+# PW Skills website clone with ReactJS and TailwindCSS
 ## This is a task given to us by iNeuron Full Stack Javascript BootCamp
 
 ![Screenshot (9)](https://user-images.githubusercontent.com/119747143/222667353-8f9650ce-eaec-4ada-aacc-4e3a1808dada.png)
