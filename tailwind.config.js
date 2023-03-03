@@ -22,7 +22,8 @@ module.exports = {
       },
       boxShadow: {
         dropdownShadow: "0 0 32px 1px rgba(230, 230, 230)",
-        inputShadow: "0 0 32px 2px rgba(228, 121 17 / 50%)",
+        inputShadow: "0 0 32px 2px rgba(84, 83, 82, 1)",
+        cardShadow: "0 0 10px 2px rgba(230, 224, 218, 0.5)",
       },
     },
   },

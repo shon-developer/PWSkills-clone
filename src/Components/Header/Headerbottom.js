@@ -10,7 +10,7 @@ const Headerbottom = () => {
   const [moreList, setMoreList] = useState(false);
   console.log(courseList);
   return (
-    <div>
+    <div className="pb-6">
       <div className="max-w-6xl mx-auto">
         <div className="hidden xxl:inline-flex justify-center items-center gap-16 font-poppins font-semibold text=gray-800">
           {/* course dropdown */}
@@ -31,7 +31,7 @@ const Headerbottom = () => {
                   {courseItems.map((items) => (
                     <li
                       key={items.id}
-                      className="text-sm tracking-wide cursor-pointer font-poppins px-2 py-2"
+                      className="text-sm flex justify-between tracking-wide cursor-pointer font-poppins px-2 py-2 text-gray-600"
                     >
                       {items.title}
                       <NavigateNextIcon />
@@ -58,7 +58,7 @@ const Headerbottom = () => {
             </span>
             {moreList && (
               <div>
-                <ul className="absolute w-52 h-52 bg-white top-10 left-5 shadow-dropdownShadow flex flex-col gap-1 z-50 dropDownshadow">
+                <ul className="absolute w-52 h-52 bg-white top-10 right-5 flex flex-col gap-1 z-50 rounded-md shadow-listShadow">
                   {moreItems.map((e) => (
                     <li
                       key={e.id}

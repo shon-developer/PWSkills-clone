@@ -1,17 +1,17 @@
 import React from "react";
-import { whitelogo } from "../../assets/image";
 import EmailIcon from "@mui/icons-material/Email";
 import FacebookIcon from "@mui/icons-material/Facebook";
 import InstagramIcon from "@mui/icons-material/Instagram";
 import YouTubeIcon from "@mui/icons-material/YouTube";
 import TwitterIcon from "@mui/icons-material/Twitter";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
-import { iso } from "../../assets/image";
+import { whitelogo } from "../../img/img";
+import { iso } from "../../img/img";
 
 const Footer = () => {
   return (
-    <div className="bg-footerDark py-8 ">
-      <div className="max-w-5xl mx-auto text-white grid grid-cols-1 md:grid-cols-3 grid-cols-10 gap-6 md:px-1">
+    <div className="bg-footerDark py-16 px-6">
+      <div className="max-w-6xl mx-auto text-white grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-14 md:gap-6  md:px-1">
         {/* column 1 */}
         <div className="flex flex-col gap-4">
           <img className="w-[150px]" src={whitelogo} alt="whitelogo" />

@@ -1,11 +1,12 @@
 import React from "react";
 import Slider from "react-slick";
+
 import {
   carouselOne,
   carouselTwo,
   carouselThree,
   carouselFour,
-} from "../../assets/image";
+} from "../../img/img";
 
 const Banner = () => {
   const settings = {

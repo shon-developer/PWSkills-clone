@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "../../assets/blackLogo.png";
+import logo from "../../img/logo.png";
 import SearchIcon from "@mui/icons-material/Search";
 import MenuIcon from "@mui/icons-material/Menu";
 
