@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/PWSkills-clone/static/css/main.65ec1900.css",
+    "main.js": "/PWSkills-clone/static/js/main.2d91926b.js",
+    "static/media/carouselTwo.jpg": "/PWSkills-clone/static/media/carouselTwo.cc8c2c7fef1d02913d1f.jpg",
+    "static/media/carouselFour.jpg": "/PWSkills-clone/static/media/carouselFour.2ca339c734aedf9e2808.jpg",
+    "static/media/carouselOne.jpg": "/PWSkills-clone/static/media/carouselOne.1768b1ca55b88283fb28.jpg",
+    "static/media/carouselThree.jpg": "/PWSkills-clone/static/media/carouselThree.96cfff15209b99703f5d.jpg",
+    "static/media/iso.svg": "/PWSkills-clone/static/media/iso.de5a9bd0942ca3a0c13c44b942bf1937.svg",
+    "static/media/s1.png": "/PWSkills-clone/static/media/s1.d2127474cd5dc2ef4e66.png",
+    "static/media/logo.png": "/PWSkills-clone/static/media/logo.8b965a3d2cffb8142fbd.png",
+    "index.html": "/PWSkills-clone/index.html",
+    "main.65ec1900.css.map": "/PWSkills-clone/static/css/main.65ec1900.css.map",
+    "main.2d91926b.js.map": "/PWSkills-clone/static/js/main.2d91926b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65ec1900.css",
+    "static/js/main.2d91926b.js"
+  ]
+}
